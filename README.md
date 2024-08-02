@@ -1,1 +1,1 @@
-# py-car-game
+# car-game
